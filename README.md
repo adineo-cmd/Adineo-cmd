@@ -1,260 +1,150 @@
-<img align="right"    src="https://visitor-badge.laobi.icu/badge?page_id=Adiuem.Adiuem" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Adiuem.Adiuem" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Yadav!;" />
-</h1>
-
-###
-
-<h3 align="center"> developer | creator | designer from India 🇮🇳 </h3>
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" height="150px" align="right"  >
-
-
-<h3 align="left"> I’m currently working on Roadmap-For-All<br><br> I’m currently learning Dsa <br>
-
-
-
-
-
-
-
-
-###
-<details>
-<summary><h3 align="left">:eyes: Tech Stack: </h3></summary>
-
-<h2 align="left">PROGRAMMING LANGUAGES</h2>
-
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">FRONTEND DEVELOPMENT</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/css3.png" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" height="40" alt="tailwindcss logo"  />
-
-###
-
-<h2 align="left">BACKEND DEVELOPMENT</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">AI/ML</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
-</div>
-
-###
-
-<h2 align="left">DATABASE</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/oracle-logo.png" height="40" alt="oracle logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">BACKEND AS A SERVICE (BaaS)</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-
-###
-
-<h2 align="left">DEVEOPS</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<h2 align="left">DESIGN</h2>
-
-###
-
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" 
-  height="40" 
-  alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<h2 align="left">OTHERS</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="40" alt="freebsd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
-  height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/console.png" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-   <img src="https://img.icons8.com/color/48/debian.png" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
-
-</details>
-
-###
-
-<h3 align="left">SOCIAL MEDIA</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-
-</div>
-
-###
-
-<h3 align="left">DONATIONS</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
-</div>
-
-###
-<details>
- <summary><h3 align="left"> 🔥 MY STATS :</h3></summary>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adineo-cmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=adineo-cmd&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=2" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adineo-cmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
-</div>
+<!-- Title -->
+<h3 align="center">
+  <samp>
+    &gt; Hey There!, I am
+    <b><a target="_blank" href="https://github.com/Adiuem">Aditya Yadav</a></b>
+  </samp>
+</h3>
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=adineo-cmd&theme=chalk" height="150" alt="trophy graph" />
+<p align="center">
+  <samp>
+    「 I'm a developer from <b>India</b> 🇮🇳 」
+    <br>
+    「 Focused on building clean, useful, and scalable software 」
+    <br>
+    「 Currently working on <b>Roadmap-For-All</b> and learning <b>DSA</b> 」
+    <br>
+    「 Goal: grow as a strong backend-focused developer and contribute to open source 」
+  </samp>
+</p>
+
+<h3>
+  <samp>👀 Tech Stack</samp>
+</h3>
+
+<table width="100%">
+<tr>
+<th align="left"><samp>Core Development</samp></th>
+<th align="left"><samp>Backend • AI • Databases</samp></th>
+<th align="left"><samp>Cloud • Tools • OS</samp></th>
+</tr>
+
+<tr>
+<td valign="top">
+
+<samp><b>Languages</b></samp><br/>
+<div>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img height="38" src="https://cdn.simpleicons.org/python/3776AB"/>
+</div>
+
+<br/><samp><b>Frontend</b></samp><br/>
+<div>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img height="38" src="https://img.icons8.com/color/48/tailwindcss.png"/>
+<img height="38" src="https://cdn.simpleicons.org/bootstrap/7952B3"/>
+<img height="38" src="https://cdn.simpleicons.org/html5/E34F26"/>
+<img height="38" src="https://img.icons8.com/color/48/css3.png"/>
+</div>
+
+</td>
+
+<td valign="top">
+
+<samp><b>Backend</b></samp><br/>
+<div>
+<img height="38" src="https://cdn.simpleicons.org/nodedotjs/339933"/>
+<img height="38" src="https://cdn.simpleicons.org/fastapi/009688"/>
+</div>
+
+<br/><samp><b>AI / ML</b></samp><br/>
+<div>
+<img height="38" src="https://cdn.simpleicons.org/tensorflow/FF6F00"/>
+<img height="38" src="https://cdn.simpleicons.org/pytorch/EE4C2C"/>
+<img height="38" src="https://cdn.simpleicons.org/pandas/150458"/>
+<img height="38" src="https://cdn.simpleicons.org/opencv/5C3EE8"/>
+</div>
+
+<br/><samp><b>Databases</b></samp><br/>
+<div>
+<img height="38" src="https://cdn.simpleicons.org/mongodb/47A248"/>
+<img height="38" src="https://cdn.simpleicons.org/mysql/4479A1"/>
+<img height="38" src="https://cdn.simpleicons.org/postgresql/4169E1"/>
+<img height="38" src="https://cdn.simpleicons.org/redis/DC382D"/>
+<img height="38" src="https://img.icons8.com/color/48/oracle-logo.png"/>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+</div>
+
+</td>
+
+<td valign="top">
+
+<samp><b>Cloud & DevOps</b></samp><br/>
+<div>
+<img height="38" src="https://skillicons.dev/icons?i=aws"/>
+<img height="38" src="https://skillicons.dev/icons?i=gcp"/>
+<img height="38" src="https://cdn.simpleicons.org/docker/2496ED"/>
+<img height="38" src="https://cdn.simpleicons.org/kubernetes/326CE5"/>
+<img height="38" src="https://cdn.simpleicons.org/firebase/FFCA28"/>
+<img height="38" src="https://cdn.simpleicons.org/githubactions/2088FF"/>
+</div>
+
+<br/><samp><b>Tools & OS</b></samp><br/>
+<div>
+<img height="38" src="https://cdn.simpleicons.org/git/F05032"/>
+<img height="38" src="https://img.icons8.com/fluency/48/github.png"/>
+<img height="38" src="https://cdn.simpleicons.org/vim/019733"/>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height="38" src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+###
+
+<h3 align="left">
+  <samp>🔥 My Stats</samp>
+</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adineo-cmd&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=adineo-cmd&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adineo-cmd&layout=compact&langs_count=5&theme=radical" height="150"/>
 </div>
 
 ###
 
+<h3 align="left">
+  <samp>🌐 Social</samp>
+</h3>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Adiuem/Adiuem/output/snake.svg" alt="Snake animation" />
-
-</details>
+<div align="left">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="25"/>
+</div>
 
 ###
+
+<h3 align="left">
+  <samp> Support</samp>
+</h3>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40"/>
+</div>
