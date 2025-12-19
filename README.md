@@ -10,7 +10,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <samp>
     「 I'm a developer from <b>India</b> 🇮🇳 」
     <br>
