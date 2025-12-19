@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Adiuem.Adiuem" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Adineo-cmd.Adineo-cmd" />
 
 <!-- Title -->
 <h3 align="center">
   <samp>
     &gt; Hey There!, I am
-    <b><a target="_blank" href="https://github.com/Adiuem">Aditya Yadav</a></b>
+    <b><a target="_blank" href="https://github.com/Adineo-cmd">Aditya Yadav</a></b>
   </samp>
 </h3>
 
@@ -118,9 +118,8 @@
 </h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adineo-cmd&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=adineo-cmd&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adineo-cmd&layout=compact&langs_count=5&theme=radical" height="150"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-orcin-sigma.vercel.app?user=adineo-cmd&theme=dark" alt="GitHub Streak" height="150"/></a>
+  <img src="https://github-readme-stats-pi-tan-77.vercel.app/api/top-langs?username=adineo-cmd&layout=compact&langs_count=5&theme=radical" height="150"/>
 </div>
 
 ###
