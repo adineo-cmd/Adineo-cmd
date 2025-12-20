@@ -127,36 +127,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 2.2 kB Used in GitHub's Storage 
- > 
-> 🏆 42 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-🌆 Daytime                31 commits          ████████░░░░░░░░░░░░░░░░░   31.63 % 
-🌃 Evening                36 commits          █████████░░░░░░░░░░░░░░░░   36.73 % 
-🌙 Night                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Wednesday                18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Thursday                 22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Saturday                 26 commits          ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Sunday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+🌞 Morning                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+🌆 Daytime                31 commits          ████████░░░░░░░░░░░░░░░░░   31.31 % 
+🌃 Evening                36 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌙 Night                  15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 ```
 
 
@@ -164,12 +141,6 @@ Sunday                   14 commits          ████░░░░░░░�
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -190,7 +161,7 @@ Astro                    1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adineo-cmd/adineo-cmd/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 19:38:38 UTC
+ Last Updated on 20/12/2025 19:53:08 UTC
 <!--END_SECTION:waka-->
 
 ###
