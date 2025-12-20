@@ -122,6 +122,9 @@
   <img src="https://github-readme-stats-pi-tan-77.vercel.app/api/top-langs?username=adineo-cmd&layout=compact&langs_count=5&theme=radical" height="150"/>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ###
 
 <h3 align="left">
