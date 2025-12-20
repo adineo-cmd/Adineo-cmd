@@ -123,45 +123,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
+```txt
+From: 18 December 2025 - To: 20 December 2025
 
-**I'm a Night 🦉** 
+Total Time: 0 secs
 
-```text
-🌞 Morning                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-🌆 Daytime                31 commits          ████████░░░░░░░░░░░░░░░░░   31.31 % 
-🌃 Evening                36 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌙 Night                  15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+No activity tracked
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-PHP                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Astro                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/adineo-cmd/adineo-cmd/main/assets/bar_graph.png)
-
-
- Last Updated on 20/12/2025 19:53:08 UTC
 <!--END_SECTION:waka-->
 
 ###
