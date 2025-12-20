@@ -123,37 +123,26 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-🌆 Daytime                31 commits          ████████░░░░░░░░░░░░░░░░░   30.69 % 
-🌃 Evening                36 commits          █████████░░░░░░░░░░░░░░░░   35.64 % 
-🌙 Night                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+🌞 Morning                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+🌆 Daytime                31 commits          ████████░░░░░░░░░░░░░░░░░   30.10 % 
+🌃 Evening                36 commits          █████████░░░░░░░░░░░░░░░░   34.95 % 
+🌙 Night                  19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Thursday                 22 commits          █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Saturday                 26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Thursday                 22 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Saturday                 26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Sunday                   19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -166,7 +155,6 @@ Astro                    1 repo              ██████░░░░░�
 
 
 
- Last Updated on 20/12/2025 20:26:38 UTC
 <!--END_SECTION:waka-->
 
 ###
