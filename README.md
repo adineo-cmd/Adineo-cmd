@@ -123,13 +123,74 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-From: 12 December 2025 - To: 19 December 2025
+![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
 
-No activity tracked
+**🐱 My GitHub Data** 
+
+> 📦 2.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+🌆 Daytime                31 commits          ████████░░░░░░░░░░░░░░░░░   31.63 % 
+🌃 Evening                36 commits          █████████░░░░░░░░░░░░░░░░   36.73 % 
+🌙 Night                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Wednesday                18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Thursday                 22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Saturday                 26 commits          ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+Sunday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+PHP                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Astro                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/adineo-cmd/adineo-cmd/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/12/2025 19:38:38 UTC
 <!--END_SECTION:waka-->
 
 ###
