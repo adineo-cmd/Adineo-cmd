@@ -123,15 +123,50 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-From: 18 December 2025 - To: 20 December 2025
+![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
 
-Total Time: 0 secs
+**I'm a Night 🦉** 
 
-No activity tracked
+```text
+🌞 Morning                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+🌆 Daytime                31 commits          ████████░░░░░░░░░░░░░░░░░   30.69 % 
+🌃 Evening                36 commits          █████████░░░░░░░░░░░░░░░░   35.64 % 
+🌙 Night                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Thursday                 22 commits          █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Saturday                 26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+PHP                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Astro                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+
+ Last Updated on 20/12/2025 20:26:38 UTC
 <!--END_SECTION:waka-->
 
 ###
