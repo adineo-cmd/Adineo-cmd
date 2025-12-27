@@ -122,43 +122,6 @@
 
 ###
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-🌆 Daytime                31 commits          ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-🌃 Evening                36 commits          █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌙 Night                  20 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Thursday                 22 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Saturday                 26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Sunday                   20 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-```
-
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-PHP                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Astro                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-```
-
-
-
-
-<!--END_SECTION:waka-->
-
-###
-
 <h3 align="left">
   <samp>🌐 Social</samp>
 </h3>
