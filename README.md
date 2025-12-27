@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Adineo-cmd.Adineo-cmd" />
-
 <!-- Title -->
 <h3 align="center">
   <samp>
