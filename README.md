@@ -51,7 +51,7 @@
 <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img height="38" src="https://img.icons8.com/color/48/tailwindcss.png"/>
-<img height="38" src="https://cdn.simpleicons.org/bootstrap/7952B3"/>
+<img height="38" alt="image" src="https://github.com/user-attachments/assets/c39d362b-87bc-4c2a-9aeb-4fcfe8d79e75" />
 <img height="38" src="https://cdn.simpleicons.org/html5/E34F26"/>
 <img height="38" src="https://img.icons8.com/color/48/css3.png"/>
 </div>
