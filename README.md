@@ -14,7 +14,7 @@
     <br>
     「 Focused on building clean, useful, and scalable projects 」
     <br>
-    「 Currently working on <b>Roadmap-For-All</b> and learning <b>DSA</b> 」
+    「 Currently working on <b>RoadmapX</b> and <b>webvault</b> 」
     <br>
     「 Goal: grow as a strong frontend & backend-focused developer and contribute to open source 」
   </samp>
