@@ -23,72 +23,74 @@
 > *"Be alone, that is the secret of invention; be alone, that is when ideas are born."*  
 > — **Nikola Tesla**
 
+
 <h3>👀 Tech Stack</h3>
 
 <table width="100%">
   <tr>
-    <th align="left">Core Development</th>
-    <th align="left">Backend • AI • Databases</th>
-    <th align="left">Cloud • Tools • OS</th>
+    <th align="left"><small>Core Development</small></th>
+    <th align="left"><small>Backend • AI • Databases</small></th>
+    <th align="left"><small>Cloud • Tools • OS</small></th>
   </tr>
 
   <tr>
     <td valign="top">
-      <b>Languages</b><br>
-      Java<br>
-      JavaScript<br>
-      TypeScript<br>
-      Python<br><br>
+      <b><small>Languages</small></b><br>
+      <sub>Python</sub><br>
+      <sub>TypeScript</sub><br>
+      <sub>JavaScript</sub><br>
+      <sub>Java</sub><br><br>
 
-  <b>Frontend</b><br>
-      React<br>
-      Vue.js<br>
-      Angular<br>
-      Tailwind CSS<br>
-      Bootstrap<br>
-      HTML5<br>
-      CSS3
+  <b><small>Frontend</small></b><br>
+      <sub>React</sub><br>
+      <sub>Vue.js</sub><br>
+      <sub>Angular</sub><br>
+      <sub>Tailwind CSS</sub><br>
+      <sub>Bootstrap</sub><br>
+      <sub>HTML5</sub><br>
+      <sub>CSS3</sub>
     </td>
 
   <td valign="top">
-      <b>Backend</b><br>
-      Node.js<br>
-      FastAPI<br><br>
+      <b><small>Backend</small></b><br>
+      <sub>Node.js</sub><br>
+      <sub>FastAPI</sub><br><br>
 
-  <b>AI / ML</b><br>
-      TensorFlow<br>
-      PyTorch<br>
-      Pandas<br>
-      OpenCV<br><br>
+  <b><small>AI / ML</small></b><br>
+      <sub>TensorFlow</sub><br>
+      <sub>PyTorch</sub><br>
+      <sub>Pandas</sub><br>
+      <sub>OpenCV</sub><br><br>
 
-  <b>Databases</b><br>
-      MongoDB<br>
-      MySQL<br>
-      PostgreSQL<br>
-      Redis<br>
-      Oracle Database<br>
-      SQLite
+   <b><small>Databases</small></b><br>
+      <sub>MongoDB</sub><br>
+      <sub>MySQL</sub><br>
+      <sub>PostgreSQL</sub><br>
+      <sub>Redis</sub><br>
+      <sub>Oracle Database</sub><br>
+      <sub>SQLite</sub>
     </td>
 
   <td valign="top">
-      <b>Cloud & DevOps</b><br>
-      AWS<br>
-      Google Cloud Platform (GCP)<br>
-      Docker<br>
-      Kubernetes<br>
-      Firebase<br>
-      GitHub Actions<br><br>
+      <b><small>Cloud & DevOps</small></b><br>
+      <sub>AWS</sub><br>
+      <sub>GCP</sub><br>
+      <sub>Docker</sub><br>
+      <sub>Kubernetes</sub><br>
+      <sub>Firebase</sub><br>
+      <sub>GitHub Actions</sub><br><br>
 
-  <b>Tools & OS</b><br>
-      Git<br>
-      GitHub<br>
-      Vim<br>
-      Linux<br>
-      Ubuntu<br>
-      Windows
+   <b><small>Tools & OS</small></b><br>
+      <sub>Git</sub><br>
+      <sub>GitHub</sub><br>
+      <sub>Vim</sub><br>
+      <sub>Linux</sub><br>
+      <sub>Ubuntu</sub><br>
+      <sub>Windows</sub>
     </td>
   </tr>
 </table>
+
 
 ###
 
