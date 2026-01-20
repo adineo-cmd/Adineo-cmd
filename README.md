@@ -39,13 +39,14 @@
       <small>TypeScript</small><br>
       <small>JavaScript</small><br>
       <small>Java</small><br><br>
+      <small>C</small><br><br>
 
   <b>Frontend</b><br>
       <small>React</small><br>
       <small>Vue.js</small><br>
       <small>Angular</small><br>
       <small>Tailwind CSS</small><br>
-      <small>Bootstrap</small><br>
+      <small>Astro</small><br>
       <small>HTML5</small><br>
       <small>CSS3</small>
     </td>
@@ -65,9 +66,7 @@
       <small>MongoDB</small><br>
       <small>MySQL</small><br>
       <small>PostgreSQL</small><br>
-      <small>Redis</small><br>
       <small>Oracle Database</small><br>
-      <small>SQLite</small>
     </td>
 
   <td valign="top">
