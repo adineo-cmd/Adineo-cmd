@@ -104,17 +104,6 @@
 ###
 
 <h3 align="left">
-  <samp>🌐 Social</samp>
-</h3>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-</div>
-
-###
-
-<h3 align="left">
   <samp> Support</samp>
 </h3>
 
